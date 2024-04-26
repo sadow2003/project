@@ -1,3 +1,5 @@
+#!/bin/bash
+
 touch README.md
 echo "the title of this project is project ">README.md
 current_date=$(date +%Y-%m-%d)
